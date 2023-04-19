@@ -1,10 +1,12 @@
 body{
+    background-color:cornflowerblue;
     color: black;
     text-align: center;
     font-family: cursive;
 }
 #conteiner{
     
+    background-color: bisque;
     width: 70%;
     padding: 1em;
     text-align: left;
