@@ -5,6 +5,7 @@ body{
 }
 #conteiner{
     
+    background-color: burlywood;
     width: 70%;
     padding: 1em;
     text-align: left;
@@ -24,4 +25,9 @@ body{
     color: blueviolet;
     text-align: center;
     font-size: 15px;
+}
+#logo{
+    width: 20px;
+    height: 20px;
+    vertical-align: middle;
 }
